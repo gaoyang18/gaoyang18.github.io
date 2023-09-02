@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite-url/categories/index.html</loc>
+    
+    <lastmod>2023-09-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/tags/index.html</loc>
+    
+    <lastmod>2023-09-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/404.html</loc>
+    
+    <lastmod>2023-09-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/%E9%A1%B9%E7%9B%AE/%E4%BC%81%E4%B8%9Aerp%E9%A1%B9%E7%9B%AE/</loc>
+    
+    <lastmod>2023-08-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/%E7%AE%80%E5%8E%86/2023%E7%A7%8B%E5%AD%A3%E7%AE%80%E5%8E%86/</loc>
+    
+    <lastmod>2023-08-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/%E8%AF%BB%E5%90%8E%E6%84%9F/%E6%9E%B6%E6%9E%84%E6%BC%AB%E8%B0%88%E8%AF%BB%E5%90%8E%E6%84%9F/</loc>
+    
+    <lastmod>2023-02-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/%E5%AE%9E%E4%B9%A0/%E5%85%B3%E4%BA%8E%E4%B8%8A%E4%B8%80%E6%AC%A1%E5%AE%9E%E4%B9%A0%E7%9A%84%E6%84%9F%E5%8F%97/</loc>
+    
+    <lastmod>2023-02-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/%E5%85%B6%E4%BB%96/%E5%81%B7%E6%87%92%E5%B0%8F%E6%8F%92%E4%BB%B6-Lombok/</loc>
+    
+    <lastmod>2023-01-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/archive/index.html</loc>
+    
+    <lastmod>2017-03-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/about/index.html</loc>
+    
+    <lastmod>2016-04-20</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>http://yoursite-url/</loc>
+    <lastmod>2023-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://yoursite-url/tags/%E6%9E%B6%E6%9E%84/</loc>
+    <lastmod>2023-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/</loc>
+    <lastmod>2023-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/tags/%E7%AE%80%E5%8E%86/</loc>
+    <lastmod>2023-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/tags/%E5%AE%9E%E4%B9%A0/</loc>
+    <lastmod>2023-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/tags/%E5%85%B6%E4%BB%96/</loc>
+    <lastmod>2023-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/tags/%E9%A1%B9%E7%9B%AE/</loc>
+    <lastmod>2023-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/tags/ERP/</loc>
+    <lastmod>2023-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>http://yoursite-url/categories/%E8%AF%BB%E5%90%8E%E6%84%9F/</loc>
+    <lastmod>2023-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/categories/%E7%AE%80%E5%8E%86/</loc>
+    <lastmod>2023-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/categories/%E5%AE%9E%E4%B9%A0/</loc>
+    <lastmod>2023-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/categories/%E5%85%B6%E4%BB%96/</loc>
+    <lastmod>2023-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/categories/%E9%A1%B9%E7%9B%AE/</loc>
+    <lastmod>2023-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
